@@ -1,0 +1,2 @@
+C:\Users\JET CHANG\Desktop\homework_for_github\accelerated_cpp\chapter0\Debug\chapter0.exe
+C:\Users\JET CHANG\Desktop\homework_for_github\accelerated_cpp\chapter0\Debug\chapter0.pdb
